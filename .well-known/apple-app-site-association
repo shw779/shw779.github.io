@@ -4,7 +4,9 @@
     "details": [
       {
         "appID": "J3J6U73HZ6.com.example.naverTestApp",
-        "paths": ["*"]
+        "paths": [
+          "*"
+        ]
       }
     ]
   }
